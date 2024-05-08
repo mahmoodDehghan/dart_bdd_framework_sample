@@ -1,2 +1,2 @@
-# dart_bdd_framework_sample
-bdd sample with bdd_framework package
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
